@@ -6,13 +6,12 @@ form {
     margin-bottom: 1em;
 }
 
-table {
-    border: 2px solid black;
-    width: 600px;
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
 }
 
-th, td {
-    text-align: center;
-    border: 1px solid black;
+table {
+    width: 600px;
 }
 
