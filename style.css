@@ -31,3 +31,6 @@ textarea {
     vertical-align: middle;
 }
 
+input[type=submit] {
+    width: 500px;
+}
